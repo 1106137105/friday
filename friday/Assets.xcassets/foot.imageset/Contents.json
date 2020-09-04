@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "whiteSpuare@1x.png",
+      "filename" : "foot@1x.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "whiteSpuare@2x.png",
+      "filename" : "foot@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "whiteSpuare@3x.png",
+      "filename" : "foot@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
